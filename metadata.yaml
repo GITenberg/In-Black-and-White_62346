@@ -1,0 +1,37 @@
+_repo: In-Black-and-White_62346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The writings in prose and verse of Rudyard Kipling, volume IV
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'India -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Preface -- Dray wara yow dee -- Namgay Doola -- "The City of Dreadful
+  Night" -- The judgment of Dungara -- The finances of the gods -- At Howli Thana
+  -- In flood time -- Moti Guj: mutineer -- Without benefit of clergy -- Naboth --
+  The sending of Dana Da -- Through the fire -- The head of the district -- The Amir''s
+  homily -- At twenty-two -- Jews in Shushan -- Georgie Porgie -- Little Tobrah --
+  Gemini -- The limitations of Pambé Serang -- One view of the question -- On the
+  city wall -- The enlightenments of Pagett, M. P.'
+title: In Black and White
+url: http://www.gutenberg.org/ebooks/62346
